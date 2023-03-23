@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gontr"]
+	path = gontr
+	url = https://github.com/cran/gontr
+	shallow = true
+	registered = true
+[submodule "GOxploreR"]
+	path = GOxploreR
+	url = https://github.com/cran/GOxploreR
+	shallow = true
+	registered = true
